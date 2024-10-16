@@ -1,0 +1,10 @@
+
+::selection {
+    background: transparent;
+}
+
+.chessboard{
+    display: flex;
+    flex-wrap: wrap;
+    width: 480px;
+}

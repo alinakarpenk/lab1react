@@ -1,0 +1,22 @@
+
+
+.cell{
+    width: 60px;
+    height: 60px;
+}
+
+.cell img{
+    width: 100%;
+}
+
+.white{
+    background-color: wheat;
+}
+
+.black{
+    background-color: rgb(34, 133, 34);
+}
+
+.clicked{
+    background-color: yellowgreen;
+}
